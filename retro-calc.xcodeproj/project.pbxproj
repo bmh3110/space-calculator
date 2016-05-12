@@ -13,6 +13,8 @@
 		C62870EC1CE392D500673A44 /* retro_calc.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C62870EA1CE392D500673A44 /* retro_calc.xcdatamodeld */; };
 		C62870EE1CE392D500673A44 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C62870ED1CE392D500673A44 /* Assets.xcassets */; };
 		C62870F11CE392D500673A44 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C62870EF1CE392D500673A44 /* LaunchScreen.storyboard */; };
+		C62870F91CE3932500673A44 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = C62870F81CE3932500673A44 /* btn.wav */; };
+		C62870FB1CE39D4200673A44 /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C62870FA1CE39D4200673A44 /* Minecraft.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		C62870ED1CE392D500673A44 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C62870F01CE392D500673A44 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C62870F21CE392D500673A44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C62870F81CE3932500673A44 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
+		C62870FA1CE39D4200673A44 /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +62,10 @@
 			children = (
 				C62870E31CE392D500673A44 /* AppDelegate.swift */,
 				C62870E51CE392D500673A44 /* ViewController.swift */,
+				C62870FA1CE39D4200673A44 /* Minecraft.ttf */,
 				C62870E71CE392D500673A44 /* Main.storyboard */,
 				C62870ED1CE392D500673A44 /* Assets.xcassets */,
+				C62870F81CE3932500673A44 /* btn.wav */,
 				C62870EF1CE392D500673A44 /* LaunchScreen.storyboard */,
 				C62870F21CE392D500673A44 /* Info.plist */,
 				C62870EA1CE392D500673A44 /* retro_calc.xcdatamodeld */,
@@ -128,7 +134,9 @@
 			files = (
 				C62870F11CE392D500673A44 /* LaunchScreen.storyboard in Resources */,
 				C62870EE1CE392D500673A44 /* Assets.xcassets in Resources */,
+				C62870FB1CE39D4200673A44 /* Minecraft.ttf in Resources */,
 				C62870E91CE392D500673A44 /* Main.storyboard in Resources */,
+				C62870F91CE3932500673A44 /* btn.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
