@@ -9,6 +9,8 @@
 import UIKit
 import AVFoundation
 
+// finished calc 
+
 class ViewController: UIViewController {
     
     enum Operation: String {
